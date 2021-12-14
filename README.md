@@ -8,7 +8,7 @@ Current patches:
 
 Installation
 --------------
-In order to build dmenu you need the Xlib header files.
+In order to build dmenu you need the Xlib header files and the base-devel packages.
 ``` 
 git clone https://github.com/jwillmore/dmenu.git
 cd dmenu
